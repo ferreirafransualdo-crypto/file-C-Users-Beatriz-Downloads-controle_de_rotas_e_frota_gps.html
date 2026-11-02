@@ -1,0 +1,2 @@
+# file-C-Users-Beatriz-Downloads-controle_de_rotas_e_frota_gps.html
+O AgroRotas é a solução ideal para gestão de frotas e deslocamentos no campo. Registre colaborador, matrícula, frota e veículos leves como Fiorino. Monitore saídas e chegadas em fazendas ou fornecedores com rastreamento GPS preciso. O app calcula o KM final. l e custos em tempo real, gerando relatórios em Excel para o seu controle.
